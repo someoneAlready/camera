@@ -1,0 +1,9 @@
+*.so
+*.jar
+*.apk
+Application
+Application2/build
+Application2/Application-release.apk
+Application2/src/main/jniLibs
+Application2/src/main/res
+build

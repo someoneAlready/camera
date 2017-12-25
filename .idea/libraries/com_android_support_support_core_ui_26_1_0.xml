@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.android.support:support-core-ui-26.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/ecc5b87d6f03ec0d4d31181037afa45e39c7d94f/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/ecc5b87d6f03ec0d4d31181037afa45e39c7d94f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
